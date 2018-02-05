@@ -1,0 +1,34 @@
+#player{
+	font-size: 10px;
+	font-family: "Courier New", Courier, monospace;
+}
+#align-left{
+	float: left;
+}
+#align-right{
+	float: right;
+}
+#align-center{
+	display: flex; 
+	align-items: center;
+}
+
+html{
+	cursor: url(note.png), auto;
+}
+img{
+	width: 300px;
+	height: 300px;
+	padding-right: 25px;
+	padding-left: 25px;
+}
+span{
+	width: 400px;
+	text-indent: 25px;
+	width: 475px;
+	font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", 
+	Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif;
+	vertical-align: middle;
+	background-color: #e6ccff;
+	padding: 2px;
+}
